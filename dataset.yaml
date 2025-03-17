@@ -1,0 +1,7 @@
+path: C:\Users\akash\OneDrive\Desktop\pyt DA\helmet detection and number plate detection.v1i.voc
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2  # Number of classes
+names: ["helmet", "license_plate"]
